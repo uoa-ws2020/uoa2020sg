@@ -1,0 +1,20 @@
+format: ChoreonoidBody
+formatVersion: 1.0
+angleUnit: degree
+name: BaseA-SupportPlate
+
+BLOCK: &BLOCK
+  type: Transform
+  elements:
+    -
+      type: Shape
+      geometry: { type: Box, size: [ 0.1, 1, 1.75 ] }
+
+links:
+  -
+    name: Base
+    jointType: fixed
+    material: Steel
+    elements: *BLOCK
+
+
