@@ -57,10 +57,10 @@ Please find further details(field images, run scripts, and some attentions relat
 After running a simulation, you can find a simulation log file under ~/choreonoid/ext/WRS2020SG/project.  
 Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
-Edited: 23th Sep. 2020
+Edited: 24th Sep. 2020
 
 
-Welcome to the WRS-TDRRC-2020SG1 wiki!
+Welcome to the uoa2020sg wiki!
 
 # IMPORTANT ATTENTIONS RELATED THE STAGE GATE RULES!  
 You should read this section before trying the stage gate.  
@@ -111,7 +111,7 @@ Colors may vary.
 ### Python Script  
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/WRS2020SG/script/SG2-DoubleArmV7A.py  
 
-Edited: 23th Sep. 2020
+Edited: 24th Sep. 2020
 
 
 
