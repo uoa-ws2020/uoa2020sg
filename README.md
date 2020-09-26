@@ -54,7 +54,7 @@ Before run, you have to add "source /opt/Algoryx/AgX-2.23.0.4/setup_env.bash" at
 Please find further details(field images, run scripts, and some attentions related the stage gate rules) in the [wiki page](https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1/wiki).  
 
 ## The location of the simulation log files  
-After running a simulation, you can find a simulation log file under ~/choreonoid/ext/WRS2020SG/project.  
+After running a simulation, you can find a simulation log file under ~/choreonoid/ext/uoa2020sg/project.  
 Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
 Edited: 26th Sep. 2020
