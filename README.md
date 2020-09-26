@@ -95,7 +95,7 @@ Colors may vary.
 
 ## SG1M  
 Choose either A or B and execute the task. 
-### A: With capsule terrain.
+### A: With capsule terrain
 ### Field Image  
 ![SG1M field overview image](wiki/img/SG1M-Capsule-WholeView.png)  
 Colors may vary.  
@@ -106,7 +106,7 @@ Colors may vary.
 ### Python Script2  
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-Quadcopter.py  
 
-### B: Without capsule terrain.
+### B: Without capsule terrain
 ### Field Image  
 ![SG1M field overview image](wiki/img/SG1M-WholeView.png)  
 Colors may vary.  
