@@ -87,6 +87,7 @@ Colors may vary.
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
 
 ### B: Without capsule terrain
+### Field Image 
 ![SG1L field overview image](wiki/img/SG1L-WholeView.png)  
 Colors may vary.  
 ### Python Script 
