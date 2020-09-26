@@ -113,7 +113,7 @@ Colors may vary.
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG2-DoubleArmV7A.py  
 
 ## THE ATTENTION WHEN YOU SUBMIT VIDEOS 
-You have to inform the operation type for the robot (a: autonomous, b: semi-autonomous, c: remotely control).
+You have to inform us the operation type for the robot (autonomous, semi-autonomous or remotely control).
 
 Edited: 26th Sep. 2020
 
