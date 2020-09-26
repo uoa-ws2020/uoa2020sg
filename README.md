@@ -2,7 +2,7 @@
 The Stage Gate Model 2020-1 of World Robot Summit(Competition) Tunnel Disaster Response and Recovery Challenge.  
 THIS IS THE RELEASE VERSION.  
 
-## SOFTWARE IMPORTANT INFORMATION for WRC 2020  
+## SOFTWARE IMPORTANT INFORMATION 
 ### ABOUT Choreonoid  
 Version 1.8 with a tag specified by the development version management.  
 EX.) git clone -b tag https://github.com/choreonoid/choreonoid.git  
