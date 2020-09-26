@@ -81,14 +81,13 @@ Table: The relations between robots and the stage gate fields(In the table, "V" 
 ### Field Image  
 ![SG1L-Capsule field overview image](wiki/img/SG1L-Capsule-WholeView.png)  
 Colors may vary.  
-
-### Python Script  
-    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
-### Field Image  
 ![SG1L field overview image](wiki/img/SG1L-WholeView.png)  
 Colors may vary.  
 
-### Python Script  
+### Python Script1  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
+
+### Python Script2  
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
 
 ## SG1M  
