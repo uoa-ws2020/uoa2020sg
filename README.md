@@ -57,7 +57,7 @@ Please find further details(field images, run scripts, and some attentions relat
 After running a simulation, you can find a simulation log file under ~/choreonoid/ext/WRS2020SG/project.  
 Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
-Edited: 24th Sep. 2020
+Edited: 26th Sep. 2020
 
 
 Welcome to the uoa2020sg wiki!
@@ -82,7 +82,7 @@ Table: The relations between robots and the stage gate fields(In the table, "V" 
 Colors may vary.  
 
 ### Python Script  
-    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/WRS2020SG/script/SG1L-DoubleArmV7A.py  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
 
 ## SG1M  
 ### Field Image  
@@ -90,10 +90,10 @@ Colors may vary.
 Colors may vary.  
 
 ### Python Script1  
-    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/WRS2020SG/script/SG1M-AizuSpiderSA.py  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-AizuSpiderSA.py  
 
 ### Python Script2  
-    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/WRS2020SG/script/SG1M-Quadcopter.py  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-Quadcopter.py  
 
 ## SG2  
 ### Field Image  
@@ -109,9 +109,9 @@ Colors may vary.
 2. Removing the angled rod by a middle size robot: [mp4(13MB)](wiki/img/SG2-RemovingAngledRod-MiddleRobot.mp4)
 
 ### Python Script  
-    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/WRS2020SG/script/SG2-DoubleArmV7A.py  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG2-DoubleArmV7A.py  
 
-Edited: 24th Sep. 2020
+Edited: 26th Sep. 2020
 
 
 
