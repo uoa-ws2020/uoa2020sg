@@ -93,11 +93,10 @@ Colors may vary.
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
 
 ## SG1M  
-カプセルテレインが設置されているフィールドか設置されていないフィールドのいずれかを選択して
-タスクを実行してください
+Choose either A or B and execute the task. 
 ### Field Image  
-カプセルテレイン（有り）
-![SG1M field overview image](wiki/img/SG1M-WholeView.png)  
+A: With capsule terrain.
+![SG1M field overview image](wiki/img/SG1M-Capsule-WholeView.png)  
 Colors may vary.  
 
 ### Python Script1  
@@ -106,8 +105,8 @@ Colors may vary.
 ### Python Script2  
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-Quadcopter.py  
 
-カプセルテレイン（無し）
-![SG1M field overview image](wiki/img/SG1M-Capsule-WholeView.png)  
+B: Without capsule terrain.
+![SG1M field overview image](wiki/img/SG1M-WholeView.png)  
 Colors may vary.  
 
 ### Python Script1  
