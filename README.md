@@ -64,9 +64,10 @@ Welcome to the uoa2020sg wiki!
 
 # IMPORTANT ATTENTIONS RELATED THE STAGE GATE RULES!  
 You should read this section before trying the stage gate.  
-1. You have to choose suitable stage gate fields for your robot which you want to assess. Please check the following table to know which stage gate model should be used to assess your robot.  
-2. You have to assess your all robots which you will use in the competition. This is meaning that you have to assess a robot again when you modified the robot, for example changing the size of robot, adding or changing arms, legs, wheels, crawlers, and other important things for effecting the real time factor of the simulator.   
-3. You have to assess also any additional tools which your robot will use in the competition. This is meaning that you have to assess a tool again when you modified the tool.  
+1. You have to record videos from start to finish each task. In addition, you also have to show the elapsed time in the video.
+2. You have to choose suitable stage gate fields for your robot which you want to assess. Please check the following table to know which stage gate model should be used to assess your robot.  
+3. You have to assess your all robots which you will use in the competition. This is meaning that you have to assess a robot again when you modified the robot, for example changing the size of robot, adding or changing arms, legs, wheels, crawlers, and other important things for effecting the real time factor of the simulator.   
+4. You have to assess also any additional tools which your robot will use in the competition. This is meaning that you have to assess a tool again when you modified the tool.  
 
 Table: The relations between robots and the stage gate fields(In the table, "V" means suitable combination).  
 
@@ -110,6 +111,9 @@ Colors may vary.
 
 ### Python Script  
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG2-DoubleArmV7A.py  
+
+## THE ATTENTION WHEN YOU SUBMIT VIDEOS 
+You have to inform the operation type for the robot(a: autonomous, b: semi-autonomous, c: remotely control).
 
 Edited: 26th Sep. 2020
 
