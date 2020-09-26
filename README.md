@@ -78,6 +78,8 @@ Table: The relations between robots and the stage gate fields(In the table, "V" 
 | SG2  |  V   |  V   |  -   |
 
 ## SG1L  
+カプセルテレインが設置されているフィールドか設置されていないフィールドのいずれかを選択して
+タスクを実行してください
 ### Field Image  
 ![SG1L-Capsule field overview image](wiki/img/SG1L-Capsule-WholeView.png)  
 Colors may vary.  
