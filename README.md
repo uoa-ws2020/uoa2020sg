@@ -81,20 +81,34 @@ Table: The relations between robots and the stage gate fields(In the table, "V" 
 カプセルテレインが設置されているフィールドか設置されていないフィールドのいずれかを選択して
 タスクを実行してください
 ### Field Image  
+カプセルテレイン（有り）
 ![SG1L-Capsule field overview image](wiki/img/SG1L-Capsule-WholeView.png)  
 Colors may vary.  
-![SG1L field overview image](wiki/img/SG1L-WholeView.png)  
-Colors may vary.  
-
-### Python Script1  
+### Python Script
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
 
-### Python Script2  
+カプセルテレイン（無し） 
+![SG1L field overview image](wiki/img/SG1L-WholeView.png)  
+Colors may vary.  
+### Python Script 
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
 
 ## SG1M  
+カプセルテレインが設置されているフィールドか設置されていないフィールドのいずれかを選択して
+タスクを実行してください
 ### Field Image  
+カプセルテレイン（有り）
 ![SG1M field overview image](wiki/img/SG1M-WholeView.png)  
+Colors may vary.  
+
+### Python Script1  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-AizuSpiderSA.py  
+
+### Python Script2  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-Quadcopter.py  
+
+カプセルテレイン（無し）
+![SG1M field overview image](wiki/img/SG1M-Capsule-WholeView.png)  
 Colors may vary.  
 
 ### Python Script1  
