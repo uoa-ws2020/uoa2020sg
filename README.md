@@ -41,22 +41,20 @@ If you have to install choreonoid now, please follow below commands:
 Or you are already using choreonoid, please follow below commands:  
 (When your choreonoid is under ~/choreonoid)  
 
-    $ cd ~/choreonoid && git checkout "wrs2019"
     $ cd ~/choreonoid/ext  
-    $ wget https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1/blob/master/WRS2020SG.zip  
-    $ unzip WRS2020SG.zip  
+    $ git clone https://github.com/uoa-ws2020/uoa2020sg.git 
     $ cd ~/choreonoid/build  
     $ cmake .. -DBUILD_AGX_DYNAMICS_PLUGIN=ON -DBUILD_AGX_BODYEXTENSION_PLUGIN=ON -DBUILD_COMPETITION_PLUGIN=ON -DENABLE_CORBA=ON -DBUILD_CORBA_PLUGIN=ON -DBUILD_MULTICOPTER_PLUGIN=ON -DBUILD_MULTICOPTER_SAMPLES=ON -DBUILD_SCENE_EFFECTS_PLUGIN=ON -DBUILD_WRS2018=ON  
-    $ make -j8  
+    $ make -j4
 
 Before run, you have to add "source /opt/Algoryx/AgX-2.23.0.4/setup_env.bash" at the end of ~/.bashrc , and reopen the terminal.  
-Please find further details(field images, run scripts, and some attentions related the stage gate rules) in the [wiki page](https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1/wiki).  
+Please find further details(field images, run scripts, and some attentions related the stage gate rules) in the [wiki page](https://github.com/uoa-ws2020/uoa2020sg/wiki).  
 
 ## The location of the simulation log files  
 After running a simulation, you can find a simulation log file under ~/choreonoid/ext/uoa2020sg/project.  
 Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
-Edited: 26th Sep. 2020
+Edited: 27th Sep. 2020
 
 
 Welcome to the uoa2020sg wiki!
@@ -135,7 +133,7 @@ Colors may vary.
 ## THE ATTENTION WHEN YOU SUBMIT VIDEOS 
 You have to inform us the operation type for the robot (autonomous, semi-autonomous or remotely control).
 
-Edited: 26th Sep. 2020
+Edited: 27th Sep. 2020
 
 
 
