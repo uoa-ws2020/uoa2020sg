@@ -29,7 +29,7 @@ Currently, Version 2.23.0.4 which was nearest version for Ubuntu 18.04 from WRS2
 If you have to install choreonoid now, please follow below commands:  
 
     $ cd ~  
-    $ git clone -b "wrs2019" https://github.com/choreonoid/choreonoid.git  
+    $ git clone https://github.com/choreonoid/choreonoid.git  
     $ ~/choreonoid/misc/script/install-requisites-ubuntu-18.04.sh  
     $ sudo apt-get install qt5-default libqt5x11extras5-dev qt5-style-plugins  
     $ cd ~/choreonoid/ext  
