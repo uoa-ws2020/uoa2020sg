@@ -84,7 +84,7 @@ Choose either A or B and execute the task.
 ![SG1L-Capsule field overview image](wiki/img/SG1L-Capsule-WholeView.png)  
 Colors may vary.  
 ### Python Script
-    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-DoubleArmV7A.py  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1L-Capsule-DoubleArmV7A.py  
 
 ### B: Without capsule terrain
 ### Field Image 
@@ -101,10 +101,10 @@ Choose either A or B and execute the task.
 Colors may vary.  
 
 ### Python Script1  
-    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-AizuSpiderSA.py  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-Capsule-AizuSpiderSA.py  
 
 ### Python Script2  
-    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-Quadcopter.py  
+    $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG1M-Capsule-Quadcopter.py  
 
 ### B: Without capsule terrain
 ### Field Image  
