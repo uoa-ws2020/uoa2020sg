@@ -1,6 +1,8 @@
-# uoa2020sg  _RELEASE VERSION_  
+# uoa2020sg  
 The Stage Gate Model 2020-1 of World Robot Summit(Competition) Tunnel Disaster Response and Recovery Challenge.  
 THIS IS THE RELEASE VERSION.  
+
+# Background and Objective
 
 ## SOFTWARE IMPORTANT INFORMATION 
 ### ABOUT Choreonoid  
@@ -18,12 +20,12 @@ There is information that the RTM version 1.1.2 and 1.2.0 were used with older c
 ### ABOUT AGX Dynamics  
 We are considering a suitable virsion of AGX.  
 Currently, Version 2.23.0.4 which was nearest version for Ubuntu 18.04 from WRS2018 and verified by the committee.  
-  
+We recomend version 2.29.0.0 and verified it by the comittiee. 
 
 ## Requirements  
 
   1. [Choreonoid](https://choreonoid.org/en/manuals/latest/index.html), [Installing Choreonoid](https://choreonoid.org/en/manuals/latest/install/build-ubuntu.html#development-version). If you use ROS melodic, see also [Teleoperation Sample using ROS](https://choreonoid.org/en/manuals/latest/wrs2018/teleoperation-ros.html)  
-  2. [AGX for Choreonoid](https://choreonoid.org/en/manuals/latest/agxdynamics/index.html), [Downloading AGX](https://www.algoryx.se/download/?id=1887), [Installing AGX](https://www.algoryx.se/documentation/complete/agx/tags/latest/UserManual/source/installation.html#install-on-ubuntu-16-04). The AGX highest version is 2.23.0.4 which was nearest version for Ubuntu 18.04 from WRS2018 and verified by the committee. There are capability that higher version which can be used will be found.  
+  2. [AGX for Choreonoid](https://choreonoid.org/en/manuals/latest/agxdynamics/index.html), [Downloading AGX](https://www.algoryx.se/download/?id=1887), [Installing AGX](https://www.algoryx.se/documentation/complete/agx/tags/latest/UserManual/source/installation.html#install-on-ubuntu-16-04). The AGX highest version is 2.29.0.0 which was nearest version for Ubuntu 18.04. There are capability that higher version which can be used will be found.  
 
 ## How to use this repository.  
 If you have to install choreonoid now, please follow below commands:  
