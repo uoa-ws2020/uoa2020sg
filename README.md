@@ -59,9 +59,9 @@ After running a simulation, you can find a simulation log file under ~/choreonoi
 Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
 ## Contact Address 
-○○○@u-aizu.ac.jp
+uoa-ws2020@u-aizu.ac.jp
 
-Edited: 27th Sep. 2020
+Edited: 29th Sep. 2020
 
 
 Welcome to the uoa2020sg wiki!
@@ -154,9 +154,9 @@ Colors may vary.
 2. Information the operation type for the robot (autonomous, semi-autonomous or remote control).
 
 ## Contact Address 
-○○○@u-aizu.ac.jp
+uoa-ws2020@u-aizu.ac.jp
 
-Edited: 27th Sep. 2020
+Edited: 29th Sep. 2020
 
 
 
