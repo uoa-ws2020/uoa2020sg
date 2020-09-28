@@ -2,7 +2,8 @@
 The Stage Gate Model 2020-1 of World Robot Summit(Competition) Tunnel Disaster Response and Recovery Challenge.  
 THIS IS THE RELEASE VERSION.  
 
-# Background and Objective
+## Background and Objective
+追記お願いします．
 
 ## SOFTWARE IMPORTANT INFORMATION 
 ### ABOUT Choreonoid  
