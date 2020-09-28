@@ -1,6 +1,7 @@
 # uoa2020sg  
 The Stage Gate Model 2020-1 of World Robot Summit(Competition) Tunnel Disaster Response and Recovery Challenge.  
 THIS IS THE RELEASE VERSION.  
+公式のステージゲートを参考に作成しています．
 
 ## Background and Objective
 追記お願いします．
