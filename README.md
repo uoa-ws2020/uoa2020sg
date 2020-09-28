@@ -54,6 +54,9 @@ Please find further details(field images, run scripts, and some attentions relat
 After running a simulation, you can find a simulation log file under ~/choreonoid/ext/uoa2020sg/project.  
 Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
+## Contact Address 
+○○○@u-aizu.ac.jp
+
 Edited: 27th Sep. 2020
 
 
@@ -73,6 +76,17 @@ Table: The relations between robots and the stage gate fields(In the table, "V" 
 | SG1L |  V   |  -   |  -   |
 | SG1M |  -   |  V   |  V   |
 | SG2  |  V   |  V   |  -   |
+
+## Operation Type
+### A: Autonoumous
+A control method that performs behaviors or tasks with a degree of autonomy (without external influence).
+### B: Semi-autonoumous
+AとCの中間　
+振る舞いやタスク
+あるところではロボットが自律的に振る舞いやタスクを実行し，
+またあるところでは人間がロボットを操作する
+### C: Remote Control
+完全に人間が操作を行う．
 
 ## SG1L  
 Choose either A or B and execute the task. 
@@ -130,8 +144,12 @@ Colors may vary.
 ### Python Script  
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG2-DoubleArmV7A.py  
 
-## THE ATTENTION WHEN YOU SUBMIT VIDEOS 
-You have to inform us the operation type for the robot (autonomous, semi-autonomous or remotely control).
+## Submission Requirements
+1. Videos of SG1 and SG2.
+2. Information the operation type for the robot (autonomous, semi-autonomous or remote control).
+
+## Contact Address 
+○○○@u-aizu.ac.jp
 
 Edited: 27th Sep. 2020
 
