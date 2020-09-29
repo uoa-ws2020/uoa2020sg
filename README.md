@@ -1,5 +1,5 @@
 # uoa2020sg   
-We designed uoa2020sg based on [WRS-TDRRC-2020SG1](https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1).
+We designed uoa2020sg by referring to [WRS-TDRRC-2020SG1](https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1).
 ## Background and Objective
 追記お願いします．
 
