@@ -83,14 +83,11 @@ Table: The relations between robots and the stage gate fields(In the table, "V" 
 ## Operation Type
 The operation type indicates the control system of a robot and is classified into the following three types.
 ### A: Autonoumous
-A control method that performs behaviors or tasks with a degree of autonomy (without external influence).
+A control system that performs behaviors or tasks with a degree of autonomy (without external influence).
 ### B: Semi-autonoumous
-AとCの中間　
-振る舞いやタスク
-あるところではロボットが自律的に振る舞いやタスクを実行し，
-またあるところでは人間がロボットを操作する
-### C: Remote Control
-完全に人間が操作を行う．
+A control system that operate autonomously and also by a person.
+### C: Remote control
+A control system that operated by a person.
 
 ## SG1L  
 Choose either A or B and execute the task. 
