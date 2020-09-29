@@ -58,8 +58,9 @@ Please find further details(field images, run scripts, and some attentions relat
 After running a simulation, you can find a simulation log file under ~/choreonoid/ext/uoa2020sg/project.  
 Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
-## Contact Address 
-uoa-ws2020@u-aizu.ac.jp
+## Q&A 
+If you have any questions or anything, plase feel free contact us. 
+Contact Address: uoa-ws2020@u-aizu.ac.jp
 
 Edited: 29th Sep. 2020
 
