@@ -18,7 +18,7 @@ There is information that the RTM version 1.1.2 and 1.2.0 were used with older c
   
 ### ABOUT AGX Dynamics  
 We are considering a suitable virsion of AGX.  
-Currently, Version 2.23.0.4 which was nearest version for Ubuntu 18.04 from WRS2018 and verified by the committee.  
+Currently, Version 2.23.0.4 or above higher (latest 2.29.0.0) are available.  
 We recomend version 2.29.0.0 and verified it by the comittiee. 
 
 ## Requirements  
