@@ -51,7 +51,8 @@ Or you are already using choreonoid, please follow below commands:
     $ cmake .. -DBUILD_AGX_DYNAMICS_PLUGIN=ON -DBUILD_AGX_BODYEXTENSION_PLUGIN=ON -DBUILD_COMPETITION_PLUGIN=ON -DENABLE_CORBA=ON -DBUILD_CORBA_PLUGIN=ON -DBUILD_MULTICOPTER_PLUGIN=ON -DBUILD_MULTICOPTER_SAMPLES=ON -DBUILD_SCENE_EFFECTS_PLUGIN=ON -DBUILD_WRS2018=ON -DUSE_PYTHON3=OFF 
     $ make -j4
 
-Before run, you have to add "source /opt/Algoryx/AgX-2.23.0.4/setup_env.bash" at the end of ~/.bashrc , and reopen the terminal.  
+Before run, you have to add "source /opt/Algoryx/AgX-"Version"/setup_env.bash" at the end of ~/.bashrc , and reopen the terminal.
+e.g. "source /opt/Algoryx/AgX-2.29.0.0/setup_env.bash" (when you use version 2.29.0.0)
 Please find further details(field images, run scripts, and some attentions related the stage gate rules) in the [wiki page](https://github.com/uoa-ws2020/uoa2020sg/wiki).  
 
 ## The location of the simulation log files  
@@ -150,9 +151,15 @@ Colors may vary.
 ### Python Script  
     $ ~/choreonoid/build/bin/choreonoid ~/choreonoid/ext/uoa2020sg/script/SG2-DoubleArmV7A.py  
 
-## Submission Requirements
-1. Videos of SG1 and SG2.
-2. Information the operation type for the robot (autonomous, semi-autonomous or remote control).
+## Submission Requirements 
+Requirements <br>
+A. URL for videos about SG1 and SG2. (Please use video sharing service like Youtube.) <br>
+B. Information the operation type for the robot (autonomous, semi-autonomous or remote control).
+
+You have to submit A and B to us.
+
+## Important date
+Submission deadline: October 23, 2020
 
 ## Q&A 
 If you have any questions or anything, plase feel free contact us. 
