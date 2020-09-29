@@ -153,8 +153,9 @@ Colors may vary.
 1. Videos of SG1 and SG2.
 2. Information the operation type for the robot (autonomous, semi-autonomous or remote control).
 
-## Contact Address 
-uoa-ws2020@u-aizu.ac.jp
+## Q&A 
+If you have any questions or anything, plase feel free contact us. 
+Contact Address: uoa-ws2020@u-aizu.ac.jp
 
 Edited: 29th Sep. 2020
 
