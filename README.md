@@ -51,12 +51,12 @@ Or you are already using choreonoid, please follow below commands:
     $ make -j4
 
 Before run, you have to add "source /opt/Algoryx/AgX-"Version"/setup_env.bash" at the end of ~/.bashrc , and reopen the terminal.<br>
-Ex) "source /opt/Algoryx/AgX-2.29.0.0/setup_env.bash" (when you use version 2.29.0.0)<br>
+EX.) "source /opt/Algoryx/AgX-2.29.0.0/setup_env.bash" (when you use version 2.29.0.0)<br>
 Please find further details (field images, run scripts, and some attentions related the stage gate rules) in the [wiki page](https://github.com/uoa-ws2020/uoa2020sg/wiki).  
 
 ## The location of the simulation log files  
 After running a simulation, you can find a simulation log file under ~/choreonoid/ext/uoa2020sg/project.  
-Please see also [Choreonoid documentation] (https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
+Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
 ## Q&A 
 If you have any questions or anything, please feel free contact us. 
