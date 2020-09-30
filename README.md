@@ -3,11 +3,12 @@
 ## Introduction 
 This repository provides a set of files for robot simulation models made for the university of Aizu practice session for the tunnel disaster response and recovery challenge in the disaster robotics challenge in World Robot Summit 2020. We are welcome if you are interested in and join to this session. 
 
-Most of the files in this repository come from the repository of [WRS-TDRRC-2020SG1] (https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1). We have modified it slightly for our purpose. 
+Most of the files in this repository come from the repository of WRS-TDRRC-2020SG1
+(https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1). We have modified it slightly for our purpose. 
 
 ## SOFTWARE IMPORTANT INFORMATION 
 ### ABOUT Choreonoid 
-Version 1.8 with a tag specified by the development version management. 
+Version 1.8 with a tag specified by the development version management. <br>
 EX.) git clone -b tag https://github.com/choreonoid/choreonoid.git 
 
 ### ABOUT Robotic middle-ware 
@@ -51,7 +52,7 @@ Or you are already using choreonoid, please follow below commands:
 
 Before run, you have to add "source /opt/Algoryx/AgX-"Version"/setup_env.bash" at the end of ~/.bashrc , and reopen the terminal.<br>
 Ex) "source /opt/Algoryx/AgX-2.29.0.0/setup_env.bash" (when you use version 2.29.0.0)<br>
-Please find further details (field images, run scripts, and some attentions related the stage gate rules) in the [wiki page] (https://github.com/uoa-ws2020/uoa2020sg/wiki).  
+Please find further details (field images, run scripts, and some attentions related the stage gate rules) in the [wiki page](https://github.com/uoa-ws2020/uoa2020sg/wiki).  
 
 ## The location of the simulation log files  
 After running a simulation, you can find a simulation log file under ~/choreonoid/ext/uoa2020sg/project.  
@@ -62,9 +63,9 @@ If you have any questions or anything, please feel free contact us.
 Contact Address: uoa-ws2020@u-aizu.ac.jp
 
 ## Acknowledgement
-We show our great thanks to the organizing committee of the tunnel disaster response and recovery challenge in the disaster robotics challenge in World Robot Summit 2020, because we refer many files to to [WRS-TDRRC-2020SG1](https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1).
+We show our great thanks to the organizing committee of the tunnel disaster response and recovery challenge in the disaster robotics challenge in World Robot Summit 2020, because we refer many files to [WRS-TDRRC-2020SG1](https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1).
 
-Edited: 29th Sep. 2020
+Edited: 30th Sep. 2020
 
 Welcome to the uoa2020sg wiki!
 
@@ -162,5 +163,5 @@ Submission deadline: October 23, 2020
 If you have any questions or anything, please feel free contact us. 
 Contact Address: uoa-ws2020@u-aizu.ac.jp
 
-Edited: 29th Sep. 2020
+Edited: 30th Sep. 2020
 
