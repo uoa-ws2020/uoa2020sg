@@ -1,7 +1,7 @@
 # uoa2020sg
 
 ## Introduction 
-This repository provides a set of files for robot simulation models made by the university of Aizu as a practice session for the tunnel disaster response and recovery challenge in the disaster robotics challenge in World Robot Summit 2020. We are welcome if you are interested in and join to this session. 
+This repository provides a set of files for robot simulation models made for the university of Aizu practice session for the tunnel disaster response and recovery challenge in the disaster robotics challenge in World Robot Summit 2020. We are welcome if you are interested in and join to this session. 
 
 Most of the files in this repository come from the repository of [WRS-TDRRC-2020SG1] (https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1). We have modified it slightly for our purpose. 
 
