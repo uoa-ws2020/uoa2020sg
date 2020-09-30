@@ -25,8 +25,8 @@ Currently, the version 2.23.0.4 and higher (the latest 2.29.0.0) are available.
 We recommend the version 2.29.0.0, which is verified by the committee. 
 
 ## Requirements
-  1. [Choreonoid](https://choreonoid.org/en/manuals/latest/index.html), [Installing Choreonoid] (https://choreonoid.org/en/manuals/latest/install/build-ubuntu.html#development-version). If you use ROS melodic, see also [Teleoperation Sample using ROS] (https://choreonoid.org/en/manuals/latest/wrs2018/teleoperation-ros.html)  
-  2. [AGX for Choreonoid] (https://choreonoid.org/en/manuals/latest/agxdynamics/index.html), [Downloading AGX] (https://www.algoryx.se/download/?id=1887), [Installing AGX] (https://www.algoryx.se/documentation/complete/agx/tags/latest/UserManual/source/installation.html#install-on-ubuntu-16-04). The latest version of AGX is 2.29.0.0 which is verified running under Ubuntu 18.04. 
+  1. [Choreonoid](https://choreonoid.org/en/manuals/latest/index.html), [Installing Choreonoid](https://choreonoid.org/en/manuals/latest/install/build-ubuntu.html#development-version). If you use ROS melodic, see also [Teleoperation Sample using ROS](https://choreonoid.org/en/manuals/latest/wrs2018/teleoperation-ros.html)  
+  2. [AGX for Choreonoid](https://choreonoid.org/en/manuals/latest/agxdynamics/index.html), [Downloading AGX](https://www.algoryx.se/download/?id=1887), [Installing AGX](https://www.algoryx.se/documentation/complete/agx/tags/latest/UserManual/source/installation.html#install-on-ubuntu-16-04). The latest version of AGX is 2.29.0.0 which is verified running under Ubuntu 18.04. 
 
 ## How to use this repository 
 If you install choreonoid the first time, please follow below commands: 
@@ -87,11 +87,11 @@ Table: The relations between robots and the stage gate fields(In the table, "V" 
 ## Operation Type
 The operation type indicates the control system of a robot and is classified into the following three types.
 ### A: Autonoumous
-A control system that performs behaviors or tasks with a degree of autonomy (without external influence).
+A control system that is performed behaviors or tasks with a degree of autonomy (without external influence).
 ### B: Semi-autonoumous
-A control system that operate autonomously and also by a person.
+A control system that is operated autonomously and also by a person.
 ### C: Remote control
-A control system that operated by a person.
+A control system that is operated by a person.
 
 ## SG1L  
 Choose either A or B and execute the task. 
